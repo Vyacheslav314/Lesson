@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\bin\Debug\net6.0\ex001HelloConsole.exe
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\bin\Debug\net6.0\ex001HelloConsole.deps.json
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\bin\Debug\net6.0\ex001HelloConsole.runtimeconfig.json
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\bin\Debug\net6.0\ex001HelloConsole.dll
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\bin\Debug\net6.0\ex001HelloConsole.pdb
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.AssemblyInfo.cs
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.dll
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\refint\ex001HelloConsole.dll
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.pdb
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ex001HelloConsole.genruntimeconfig.cache
+C:\Users\Asus\Desktop\the first lesson2.0\examples\ex001HelloConsole\obj\Debug\net6.0\ref\ex001HelloConsole.dll
